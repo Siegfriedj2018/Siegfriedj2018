@@ -6,9 +6,13 @@
 ![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siegfriedj2018&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siegfriedj2018&langs_count=10&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-# Contact me
-- 📫 How to reach me:
-  [![Email Me](<img width="880" height="239" alt="Gmail2020logo" src="assets/Gmail2020.png"/>)](mailto:youremail@example.com)
+# 📫 How to reach me:
+<a href="mailto:justasiegfried09@gmail.com">
+  <img src="./assets/Gmail2020.png" alt="Email Me" width="75">
+</a>
+<a href="www.linkedin.com/in/justin-siegfried-b91364114">
+  Linkedin
+</a>
 <!--
 **Siegfriedj2018/Siegfriedj2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
