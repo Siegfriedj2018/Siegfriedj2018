@@ -8,7 +8,7 @@
 
 # Contact me
 - 📫 How to reach me:
-  [![Email Me](<img width="880" height="239" alt="Gmail2020logo" src="https://github.com/"/>)](mailto:youremail@example.com)
+  [![Email Me](<img width="880" height="239" alt="Gmail2020logo" src="assets/Gmail2020.png"/>)](mailto:youremail@example.com)
 <!--
 **Siegfriedj2018/Siegfriedj2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
