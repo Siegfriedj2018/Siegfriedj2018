@@ -1,6 +1,6 @@
 ## Hi there, My name is Justin Siegfried 👋
 - 🔭 I graduated from University of South Carolina in May 2025 with a Bachelors degree in Computer Science.
-- 🌱 I’m currently learning Golang on boot.dev and on some personal projects that I will add to my github profile as I am working on them.
+- 🌱 I’m currently learning Golang on <a href="https://www.boot.dev/u/solidaccess34">boot.dev</a> and on some personal projects that I will add to my github profile as I am working on them.
 
   
 ![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siegfriedj2018&show_icons=true&theme=onedark)
@@ -11,7 +11,7 @@
   <img src="./assets/Gmail2020.png" alt="Email Me" width="75">
 </a>
 <a href="www.linkedin.com/in/justin-siegfried-b91364114">
-  Linkedin
+  <img src="./assets/LinkedIn-Logo.png" alt="LinkedIn" width="75">
 </a>
 <!--
 **Siegfriedj2018/Siegfriedj2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
