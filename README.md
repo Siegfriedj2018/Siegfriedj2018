@@ -1,6 +1,6 @@
 ## Hi there, My name is Justin Siegfried 👋
 - 🔭 I graduated from University of South Carolina in May 2025 with a Bachelors degree in Computer Science.
-- 🌱 I’m currently learning Golang on boot.cev and on some personal projects that I will add to my github profile as I am working on them.
+- 🌱 I’m currently learning Golang on boot.dev and on some personal projects that I will add to my github profile as I am working on them.
 
   
 ![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siegfriedj2018&show_icons=true&theme=onedark)
