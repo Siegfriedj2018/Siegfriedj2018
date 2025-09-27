@@ -1,4 +1,7 @@
 ## Hi there, My name is Justin Siegfried 👋
+### About Me
+- 🏠 My home town is Columbia, SC
+- ❤️ I am passionate about backend develop and tech.
 - 🔭 I graduated from University of South Carolina in May 2025 with a Bachelors degree in Computer Science.
 - 🌱 I’m currently learning Golang on <a href="https://www.boot.dev/u/solidaccess34">boot.dev</a> and on some personal projects that I will add to my github profile as I am working on them.
 
@@ -6,7 +9,7 @@
 ![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siegfriedj2018&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siegfriedj2018&langs_count=10&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-# 📫 How to reach me:
+### 📫 How to reach me:
 <a href="mailto:justasiegfried09@gmail.com">
   <img src="./assets/Gmail2020.png" alt="Email Me" width="75">
 </a>
