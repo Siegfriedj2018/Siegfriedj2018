@@ -19,8 +19,6 @@
   <img src="./assets/LinkedIn-Logo.png" alt="LinkedIn" width="75">
 </a>
 <!--
-**Siegfriedj2018/Siegfriedj2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - I’m currently working on ...
