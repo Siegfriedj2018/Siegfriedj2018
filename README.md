@@ -7,10 +7,12 @@
 - 🔭 I graduated from University of South Carolina in May 2025 with a Bachelors degree in Computer Science.
 - 🌱 I’m always learning something new, right now I'm currently learning Golang on [boot.dev](https://www.boot.dev/u/solidaccess34) and working on some personal projects that I will add to my github profile as I am working on them.
 
-![Boot Dev](https://api.boot.dev/v1/users/public/776ce092-bfe2-47a1-af2f-82d1e3cf1611/thumbnail)
-
 ![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siegfriedj2018&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siegfriedj2018&langs_count=10&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siegfriedj2018&langs_count=10&layout=compact&theme=onedark)
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/776ce092-bfe2-47a1-af2f-82d1e3cf1611/thumbnail" width="400">
+</p>
 
 ### 📫 How to reach me
 
