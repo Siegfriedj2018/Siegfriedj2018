@@ -5,7 +5,7 @@
 - 🏠 My home town is Columbia, SC
 - ❤️ I am passionate about backend develop and technology associated with it.
 - 🔭 I graduated from University of South Carolina in May 2025 with a Bachelors degree in Computer Science.
-- 🌱 I’m always learning something new, right now I'm currently learning Golang on [boot.dev](https://www.boot.dev/u/solidaccess34) and working on some personal projects that I will add to my github profile as I am working on them.
+- 🌱 I’m always learning something new, right now I'm currently mastering Golang on [boot.dev](https://www.boot.dev/u/solidaccess34) and working on some personal projects that I will add to my github profile as I am working on them.
 
 ![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siegfriedj2018&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siegfriedj2018&langs_count=10&layout=compact&theme=onedark)
